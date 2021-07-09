@@ -5,7 +5,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <h3><b>About me 👀 </b></h3>
 
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning Web development
 - 🔭 I’m currently working on AR/VR Projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with new project ideas
