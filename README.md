@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shital</h1>
+<h1 align="center"><b>Hi 👋, I'm Shital</b></h1>
 
 <h3>I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about programming and opensource. I'm also a internet surfer 🏄‍♂️.</h3>
 
-<h3> About me 👀
+<h3> About me 👀 </h3>
 
 
 - 🌱 I’m currently learning **Web development**
