@@ -1,11 +1,25 @@
 - <h1 align="center">Hi 👋, I'm Shital</h1>
-<h3 align="center">A passionate Programmer</h3>
 
+- I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about programming and opensource. I'm also a internet surfer 🏄‍♂️.
+
+
+<h3 align="center">A passionate Programmer</h3>
+- <h3> About me 👀
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shital48&label=Profile%20views&color=0e75b6&style=flat" alt="shital48" /> </p>
 
-- 🌱 I’m currently learning **Information Technology**
+- 🌱 I’m currently learning **Web development**
+- 🔭 I’m currently working on AR/VR Projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with new project ideas
+- ⚡ Languages: Python3, C, C++.
+- 📫 How to reach me: Links are given above 🔝
+- 🤪 Fun fact: I love to travel and meet new people.
+ 
 
-- 📫 How to reach me **shitalgadekar2000@gmail.com**
+
+
+ 
+
 
 
 <h3 align="left">Languages and Tools:</h3>
