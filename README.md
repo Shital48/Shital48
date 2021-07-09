@@ -1,5 +1,10 @@
 <h1 align="center"><b>Hi 👋, I'm Shital</b></h1>
 
+<a href="http://www.gmail.com/shitalgadekar2000@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://www.linkedin.com/in/ShitalGadekar" target="_blank" rel="noopener noreferrer">LinkedIn</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://www.twitter.com/@ShitalGadekar " target="_blank" rel="noopener noreferrer">Twitter</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://www.instagram.com/shital_0905" target="_blank" rel="noopener noreferrer">Instagram</a>
+            
 I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about programming and opensource. I'm also a internet surfer 🏄‍♂️.
 
 <h3><b>About me 👀 </b></h3>
