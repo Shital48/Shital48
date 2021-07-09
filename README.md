@@ -1,8 +1,8 @@
-- <h1 align="center">Hi 👋, I'm Shital</h1>
+<h1 align="center">Hi 👋, I'm Shital</h1>
 
-- <h3>I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about programming and opensource. I'm also a internet surfer 🏄‍♂️.</h3>
+<h3>I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about programming and opensource. I'm also a internet surfer 🏄‍♂️.</h3>
 
-- <h3> About me 👀
+<h3> About me 👀
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shital48&label=Profile%20views&color=0e75b6&style=flat" alt="shital48" /> </p>
 
 - 🌱 I’m currently learning **Web development**
